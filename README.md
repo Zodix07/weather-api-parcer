@@ -1,4 +1,4 @@
-# Weather Data Parser
+# Weather Api Parser
 
 Python-скрипт для получения текущих данных о погоде для списка городов с помощью API [wttr.in](https://wttr.in/).
 
@@ -22,14 +22,14 @@ Python-скрипт для получения текущих данных о п�
 ## Структура проекта
 
 ```text
-weather-data-parser/
+weather-test/
 ├── cities.txt
 ├── weather_scrypt.py
 └── README.md
 ```
 ## Установка и запуск
 ### 1. Клонирование репозитория
-git clone https://github.com/USERNAME/weather-data-parser.git
+git clone https://github.com/Zodix07/weather-api-parcer.git
 cd weather-data-parser
 ### 2. Подготовка списка городов
 
